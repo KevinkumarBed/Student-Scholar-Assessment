@@ -1,0 +1,7 @@
+# Compiled output
+bin/
+bin-test/
+*.class
+
+# VS Code settings
+.vscode/
